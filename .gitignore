@@ -1,0 +1,16 @@
+*.db
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+.env.*
+node_modules/
+.next/
+dist/
+build/
+.DS_Store
+backend/uploads/
+railway.toml
+test_*.py
+.vercel/
